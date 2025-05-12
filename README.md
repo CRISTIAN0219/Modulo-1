@@ -19,9 +19,10 @@ Luego de escoger la opcion seis, se mostrara todos los producto actualmente en e
 ## Opcion 7
 Luego de escoger la opcion siete, saldras del programa 
 
+## Recursos
+Como instalar python: https://www.youtube.com/watch?v=Ij89scb630s
 
-
-
+Como ejecutarlo en visual studio code: https://youtu.be/gb8WKwV_ITE?si=mNwi7FW8u6DvvKX0
 
 
 
